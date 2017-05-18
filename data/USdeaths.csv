@@ -1,0 +1,14 @@
+cause,[1-24],[25-44],[45-64],[65+]
+number,39086,112117,493376,1796620
+Unintentional injuries,38,25,7,
+Homicide,13,6,,
+Suicide,12,11,,
+Cancer,7,14,32,22
+Heart disease,3,12,21,27
+Chronic lower respiratory diseases,,,4,7
+Chronic liver disease and cirrhosis,,,4,
+Stroke,,,,5
+Alzheimer,,,,5
+Other,25,32,32,34
+,,,,
+Source: http://www.cdc.gov/nchs/data/databriefs/db99.htm,,,,
